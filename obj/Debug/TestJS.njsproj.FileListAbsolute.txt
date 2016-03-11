@@ -1,0 +1,2 @@
+D:\programming\JsTestTrainig\rolling-scopes-js-assignments\obj\Debug\TestJS.njsprojResolveAssemblyReference.cache
+D:\programming\JsTestTrainig\rolling-scopes-js-assignments\bin\Microsoft.NodejsTools.WebRole.dll
